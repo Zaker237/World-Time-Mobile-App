@@ -1,6 +1,18 @@
-# world_time
+# world Time App
 
-A new Flutter project.
+##### This made this project with the purpose to learn how Flutter works and how to use it to reate Apps.
+
+### Description
+
+It's a Simple mobile app that can give to a user the current time of some cities in the world. The user just have to select i city in the list and it shows the current time there.
+It's also customize to change the background depending on if it is a day or a night in the selected city.
+
+### Future Works
+
+I'm planning to add more Informations about there place in the future and also more cities. I will add information likes
+    * the current Temperature in the seleted city
+    * the number of people in the city
+    * ect....
 
 ## Getting Started
 
