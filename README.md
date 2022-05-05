@@ -11,9 +11,9 @@ It's also customize to change the background depending on if it is a day or a ni
 
 I'm planning to add more Informations about there place in the future and also more cities. I will add information likes
 
-    * the current Temperature in the seleted city
-    * the number of people in the city
-    * ect....
+    - the current Temperature in the seleted city
+    - the number of people in the city
+    - ect....
 
 ## Getting Started
 
