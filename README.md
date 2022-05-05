@@ -1,4 +1,4 @@
-# world Time App
+# World Time App
 
 ##### This made this project with the purpose to learn how Flutter works and how to use it to reate Apps.
 
